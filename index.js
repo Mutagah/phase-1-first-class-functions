@@ -2,7 +2,7 @@ function receivesAFunction(callback)
 {
     callback();
 }
- function returnsANamedFunction(name)
+ function returnsANamedFunction(elections)
  {
     return function elections()
     {
